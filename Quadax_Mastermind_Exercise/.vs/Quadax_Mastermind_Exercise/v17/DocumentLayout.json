@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Job Correspondence\\Quadax\\Quadax_Mastermind_Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F740B4-A838-466D-A4FD-CEE0D5E080F5}|Quadax_Mastermind_Exercise\\Quadax_Mastermind_Exercise.csproj|f:\\job correspondence\\quadax\\quadax_mastermind_exercise\\quadax_mastermind_exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F740B4-A838-466D-A4FD-CEE0D5E080F5}|Quadax_Mastermind_Exercise\\Quadax_Mastermind_Exercise.csproj|solutionrelative:quadax_mastermind_exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Job Correspondence\\Quadax\\Quadax_Mastermind_Exercise\\Quadax_Mastermind_Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "Quadax_Mastermind_Exercise\\Program.cs",
+              "ToolTip": "F:\\Job Correspondence\\Quadax\\Quadax_Mastermind_Exercise\\Quadax_Mastermind_Exercise\\Program.cs",
+              "RelativeToolTip": "Quadax_Mastermind_Exercise\\Program.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAwwEsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:53:14.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

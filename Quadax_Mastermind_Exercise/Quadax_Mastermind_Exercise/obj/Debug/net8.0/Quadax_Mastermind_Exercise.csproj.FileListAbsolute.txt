@@ -1,0 +1,15 @@
+F:\Job Correspondence\Quadax\Quadax_Mastermind_Exercise\Quadax_Mastermind_Exercise\bin\Debug\net8.0\Quadax_Mastermind_Exercise.exe
+F:\Job Correspondence\Quadax\Quadax_Mastermind_Exercise\Quadax_Mastermind_Exercise\bin\Debug\net8.0\Quadax_Mastermind_Exercise.deps.json
+F:\Job Correspondence\Quadax\Quadax_Mastermind_Exercise\Quadax_Mastermind_Exercise\bin\Debug\net8.0\Quadax_Mastermind_Exercise.runtimeconfig.json
+F:\Job Correspondence\Quadax\Quadax_Mastermind_Exercise\Quadax_Mastermind_Exercise\bin\Debug\net8.0\Quadax_Mastermind_Exercise.dll
+F:\Job Correspondence\Quadax\Quadax_Mastermind_Exercise\Quadax_Mastermind_Exercise\bin\Debug\net8.0\Quadax_Mastermind_Exercise.pdb
+F:\Job Correspondence\Quadax\Quadax_Mastermind_Exercise\Quadax_Mastermind_Exercise\obj\Debug\net8.0\Quadax_Mastermind_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+F:\Job Correspondence\Quadax\Quadax_Mastermind_Exercise\Quadax_Mastermind_Exercise\obj\Debug\net8.0\Quadax_Mastermind_Exercise.AssemblyInfoInputs.cache
+F:\Job Correspondence\Quadax\Quadax_Mastermind_Exercise\Quadax_Mastermind_Exercise\obj\Debug\net8.0\Quadax_Mastermind_Exercise.AssemblyInfo.cs
+F:\Job Correspondence\Quadax\Quadax_Mastermind_Exercise\Quadax_Mastermind_Exercise\obj\Debug\net8.0\Quadax_Mastermind_Exercise.csproj.CoreCompileInputs.cache
+F:\Job Correspondence\Quadax\Quadax_Mastermind_Exercise\Quadax_Mastermind_Exercise\obj\Debug\net8.0\Quadax_Mastermind_Exercise.sourcelink.json
+F:\Job Correspondence\Quadax\Quadax_Mastermind_Exercise\Quadax_Mastermind_Exercise\obj\Debug\net8.0\Quadax_Mastermind_Exercise.dll
+F:\Job Correspondence\Quadax\Quadax_Mastermind_Exercise\Quadax_Mastermind_Exercise\obj\Debug\net8.0\refint\Quadax_Mastermind_Exercise.dll
+F:\Job Correspondence\Quadax\Quadax_Mastermind_Exercise\Quadax_Mastermind_Exercise\obj\Debug\net8.0\Quadax_Mastermind_Exercise.pdb
+F:\Job Correspondence\Quadax\Quadax_Mastermind_Exercise\Quadax_Mastermind_Exercise\obj\Debug\net8.0\Quadax_Mastermind_Exercise.genruntimeconfig.cache
+F:\Job Correspondence\Quadax\Quadax_Mastermind_Exercise\Quadax_Mastermind_Exercise\obj\Debug\net8.0\ref\Quadax_Mastermind_Exercise.dll
